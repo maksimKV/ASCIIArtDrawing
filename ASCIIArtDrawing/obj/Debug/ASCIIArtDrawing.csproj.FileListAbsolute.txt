@@ -1,0 +1,7 @@
+D:\Projects\ASCIIArtDrawing\ASCIIArtDrawing\bin\Debug\ASCIIArtDrawing.exe.config
+D:\Projects\ASCIIArtDrawing\ASCIIArtDrawing\bin\Debug\ASCIIArtDrawing.exe
+D:\Projects\ASCIIArtDrawing\ASCIIArtDrawing\bin\Debug\ASCIIArtDrawing.pdb
+D:\Projects\ASCIIArtDrawing\ASCIIArtDrawing\obj\Debug\ASCIIArtDrawing.csprojAssemblyReference.cache
+D:\Projects\ASCIIArtDrawing\ASCIIArtDrawing\obj\Debug\ASCIIArtDrawing.csproj.CoreCompileInputs.cache
+D:\Projects\ASCIIArtDrawing\ASCIIArtDrawing\obj\Debug\ASCIIArtDrawing.exe
+D:\Projects\ASCIIArtDrawing\ASCIIArtDrawing\obj\Debug\ASCIIArtDrawing.pdb
